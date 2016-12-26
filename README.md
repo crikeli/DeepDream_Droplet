@@ -13,7 +13,7 @@ I utilized the digital ocean cloud to perform the generation of deep dreamed ima
 ![image of snow]
 (https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/input1.png)
 
-###### Deepp Dreamed Image :
+###### Deep Dreamed Image :
 ![deep dreamed image of snow]
 (https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/output1.png)
 
@@ -22,7 +22,7 @@ I utilized the digital ocean cloud to perform the generation of deep dreamed ima
 ![image of golden gate bridge]
 (https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/input2.png)
 
-###### Deepp Dreamed Image :
+###### Deep Dreamed Image :
 ![deep dreamed image of golden gate bridge]
 (https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/output2.png)
 
@@ -30,7 +30,7 @@ I utilized the digital ocean cloud to perform the generation of deep dreamed ima
 ![image of skyline]
 (https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/input4.png)
 
-###### Deepp Dreamed Image :
+###### Deep Dreamed Image :
 ![deep dreamed image of skyline]
 (https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/output4.png)
 ### Credits
