@@ -19,19 +19,19 @@ I utilized the digital ocean cloud to perform the generation of deep dreamed ima
 
 
 ###### Original Image :
-![image of snow]
+![image of golden gate bridge]
 (https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/input2.png)
 
 ###### Deepp Dreamed Image :
-![deep dreamed image of snow]
+![deep dreamed image of golden gate bridge]
 (https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/output2.png)
 
 ###### Original Image :
-![image of snow]
+![image of skyline]
 (https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/input4.png)
 
 ###### Deepp Dreamed Image :
-![deep dreamed image of snow]
+![deep dreamed image of skyline]
 (https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/output4.png)
 ### Credits
 
