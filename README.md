@@ -15,7 +15,7 @@ I utilized the digital ocean cloud to perform the generation of deep dreamed ima
 
 ###### Deepp Dreamed Image :
 ![deep dreamed image of snow]
-(https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/input1.png)
+(https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/output1.png)
 
 ### Credits
 
