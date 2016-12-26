@@ -10,10 +10,12 @@ I utilized the digital ocean cloud to perform the generation of deep dreamed ima
 #### Here are some of the results I got.
 
 ###### Original Image :
-![input](https://www.dropbox.com/s/sqkz4ddvhvdqcai/input1.png?dl=0)
+![image of snow]
+(https://www.dropbox.com/s/sqkz4ddvhvdqcai/input1.png?dl=0)
 
 ###### Deepp Dreamed Image :
-![output](https://www.dropbox.com/s/2bbfvru0e042xxd/input2.jpg?dl=0)
+![deep dreamed image of snow]
+(https://www.dropbox.com/s/f4eel7835hzefcb/output1.png?dl=0)
 
 ### Credits
 
