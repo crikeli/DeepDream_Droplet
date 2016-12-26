@@ -18,21 +18,15 @@ I utilized the digital ocean cloud to perform the generation of deep dreamed ima
 (https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/output1.png)
 
 
-###### Original Image :
-![image of golden gate bridge]
-(https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/input2.png)
-
 ###### Deep Dreamed Image :
 ![deep dreamed image of golden gate bridge]
 (https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/output2.png)
 
-###### Original Image :
-![image of skyline]
-(https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/input4.png)
-
 ###### Deep Dreamed Image :
 ![deep dreamed image of skyline]
 (https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/output4.png)
+
+
 ### Credits
 
 The included Dockerfile is an extended version of
