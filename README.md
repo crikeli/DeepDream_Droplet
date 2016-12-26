@@ -17,6 +17,22 @@ I utilized the digital ocean cloud to perform the generation of deep dreamed ima
 ![deep dreamed image of snow]
 (https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/output1.png)
 
+
+###### Original Image :
+![image of snow]
+(https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/input2.png)
+
+###### Deepp Dreamed Image :
+![deep dreamed image of snow]
+(https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/output2.png)
+
+###### Original Image :
+![image of snow]
+(https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/input4.png)
+
+###### Deepp Dreamed Image :
+![deep dreamed image of snow]
+(https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/output4.png)
 ### Credits
 
 The included Dockerfile is an extended version of
