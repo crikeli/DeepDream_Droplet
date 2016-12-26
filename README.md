@@ -11,11 +11,11 @@ I utilized the digital ocean cloud to perform the generation of deep dreamed ima
 
 ###### Original Image :
 ![image of snow]
-(https://www.dropbox.com/s/sqkz4ddvhvdqcai/input1.png?dl=0)
+(https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/input1.png)
 
 ###### Deepp Dreamed Image :
 ![deep dreamed image of snow]
-(https://www.dropbox.com/s/f4eel7835hzefcb/output1.png?dl=0)
+(https://raw.githubusercontent.com/crikeli/DeepDream_Droplet/master/input1.png)
 
 ### Credits
 
