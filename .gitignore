@@ -1,0 +1,9 @@
+tmp
+inputs
+outputs
+tmp.prototxt
+log.html
+input.jpg
+output.jpg
+images.json
+*.mp4
