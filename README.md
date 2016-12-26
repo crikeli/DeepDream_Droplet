@@ -10,10 +10,10 @@ I utilized the digital ocean cloud to perform the generation of deep dreamed ima
 #### Here are some of the results I got.
 
 ###### Original Image :
-![input](https://github.com/crikeli/DeepDream_Droplet/input1.jpg)
+![input](https://www.dropbox.com/s/5dsycwxvydkjuqd/input1.jpg?dl=0)
 
 ###### Deepp Dreamed Image :
-![output](https://github.com/crikeli/DeepDream_Droplet/output1.jpg)
+![output](https://www.dropbox.com/s/2bbfvru0e042xxd/input2.jpg?dl=0)
 
 ### Credits
 
