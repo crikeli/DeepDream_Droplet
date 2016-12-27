@@ -1,6 +1,6 @@
 # Dockerized Deepdream: Generate ConvNet Art in the Cloud
 
-I utilized the digital ocean cloud to perform the generation of deep dreamed images. Below is the original documentation of the project whose groundinspiration was set by the team at VisionAI.
+I utilized the digital ocean cloud to perform the generation of deep dreamed images. Below is the original documentation of the project whose inspiration comes from the work done by the team at VisionAI.
 
 ### My goals for this project were :
 - To understand the intricacies of interactions between my local machine and a cloud instance.
@@ -43,10 +43,6 @@ https://github.com/tleyden/docker/tree/master/caffe/cpu/master
 
 This dockerfile uses the deepdream code from:
 https://github.com/google/deepdream
-
-### License
-
-MIT License.
 
 ### License
 
